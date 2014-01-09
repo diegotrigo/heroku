@@ -1,0 +1,113 @@
+{
+	"songs" : [{
+		"memory_bank" : 0,
+		"num_tracks" : 5,
+		"tracks" : [
+									{
+										"num_keyframes" : 16,
+										"keyframes" : [
+																		{"start_time" : 100, "duration" : 50, "vibration" : 5, "interpolate" : 0 },
+																		{"start_time" : 200, "duration" : 25, "vibration" : 10, "interpolate" : 0 },
+																		{"start_time" : 300, "duration" : 50, "vibration" : 15, "interpolate" : 0 },
+																		{"start_time" : 400, "duration" : 25, "vibration" : 20, "interpolate" : 0 },
+																		{"start_time" : 500, "duration" : 50, "vibration" : 25, "interpolate" : 0 },
+																		{"start_time" : 600, "duration" : 25, "vibration" : 30, "interpolate" : 0 },
+																		{"start_time" : 700, "duration" : 50, "vibration" : 35, "interpolate" : 0 },
+																		{"start_time" : 800, "duration" : 25, "vibration" : 40, "interpolate" : 0 },
+																		{"start_time" : 900, "duration" : 50, "vibration" : 45, "interpolate" : 0 },
+																		{"start_time" : 1000, "duration" : 250, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 1500, "duration" : 300, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 2000, "duration" : 400, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 3000, "duration" : 600, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 4000, "duration" : 800, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 5000, "duration" : 200, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 6000, "duration" : 100, "vibration" : 50, "interpolate" : 0 }
+																	]
+									},
+									{
+										"num_keyframes" : 16,
+										"keyframes" : [
+																		{"start_time" : 100, "duration" : 50, "vibration" : 5, "interpolate" : 0 },
+																		{"start_time" : 200, "duration" : 25, "vibration" : 10, "interpolate" : 0 },
+																		{"start_time" : 300, "duration" : 50, "vibration" : 15, "interpolate" : 0 },
+																		{"start_time" : 400, "duration" : 25, "vibration" : 20, "interpolate" : 0 },
+																		{"start_time" : 500, "duration" : 50, "vibration" : 25, "interpolate" : 0 },
+																		{"start_time" : 600, "duration" : 25, "vibration" : 30, "interpolate" : 0 },
+																		{"start_time" : 700, "duration" : 50, "vibration" : 35, "interpolate" : 0 },
+																		{"start_time" : 800, "duration" : 25, "vibration" : 40, "interpolate" : 0 },
+																		{"start_time" : 900, "duration" : 50, "vibration" : 45, "interpolate" : 0 },
+																		{"start_time" : 1000, "duration" : 250, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 1500, "duration" : 300, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 2000, "duration" : 400, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 3000, "duration" : 600, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 4000, "duration" : 800, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 5000, "duration" : 200, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 6000, "duration" : 100, "vibration" : 50, "interpolate" : 0 }
+																	]
+									},
+									{
+										"num_keyframes" : 16,
+										"keyframes" : [
+																		{"start_time" : 100, "duration" : 50, "vibration" : 5, "interpolate" : 0 },
+																		{"start_time" : 200, "duration" : 25, "vibration" : 10, "interpolate" : 0 },
+																		{"start_time" : 300, "duration" : 50, "vibration" : 15, "interpolate" : 0 },
+																		{"start_time" : 400, "duration" : 25, "vibration" : 20, "interpolate" : 0 },
+																		{"start_time" : 500, "duration" : 50, "vibration" : 25, "interpolate" : 0 },
+																		{"start_time" : 600, "duration" : 25, "vibration" : 30, "interpolate" : 0 },
+																		{"start_time" : 700, "duration" : 50, "vibration" : 35, "interpolate" : 0 },
+																		{"start_time" : 800, "duration" : 25, "vibration" : 40, "interpolate" : 0 },
+																		{"start_time" : 900, "duration" : 50, "vibration" : 45, "interpolate" : 0 },
+																		{"start_time" : 1000, "duration" : 250, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 1500, "duration" : 300, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 2000, "duration" : 400, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 3000, "duration" : 600, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 4000, "duration" : 800, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 5000, "duration" : 200, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 6000, "duration" : 100, "vibration" : 50, "interpolate" : 0 }
+																	]
+									},
+									{
+										"num_keyframes" : 16,
+										"keyframes" : [
+																		{"start_time" : 100, "duration" : 50, "vibration" : 5, "interpolate" : 0 },
+																		{"start_time" : 200, "duration" : 25, "vibration" : 10, "interpolate" : 0 },
+																		{"start_time" : 300, "duration" : 50, "vibration" : 15, "interpolate" : 0 },
+																		{"start_time" : 400, "duration" : 25, "vibration" : 20, "interpolate" : 0 },
+																		{"start_time" : 500, "duration" : 50, "vibration" : 25, "interpolate" : 0 },
+																		{"start_time" : 600, "duration" : 25, "vibration" : 30, "interpolate" : 0 },
+																		{"start_time" : 700, "duration" : 50, "vibration" : 35, "interpolate" : 0 },
+																		{"start_time" : 800, "duration" : 25, "vibration" : 40, "interpolate" : 0 },
+																		{"start_time" : 900, "duration" : 50, "vibration" : 45, "interpolate" : 0 },
+																		{"start_time" : 1000, "duration" : 250, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 1500, "duration" : 300, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 2000, "duration" : 400, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 3000, "duration" : 600, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 4000, "duration" : 800, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 5000, "duration" : 200, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 6000, "duration" : 100, "vibration" : 50, "interpolate" : 0 }
+																	]
+									},
+									{
+										"num_keyframes" : 16,
+										"keyframes" : [
+																		{"start_time" : 100, "duration" : 50, "vibration" : 5, "interpolate" : 0 },
+																		{"start_time" : 200, "duration" : 25, "vibration" : 10, "interpolate" : 0 },
+																		{"start_time" : 300, "duration" : 50, "vibration" : 15, "interpolate" : 0 },
+																		{"start_time" : 400, "duration" : 25, "vibration" : 20, "interpolate" : 0 },
+																		{"start_time" : 500, "duration" : 50, "vibration" : 25, "interpolate" : 0 },
+																		{"start_time" : 600, "duration" : 25, "vibration" : 30, "interpolate" : 0 },
+																		{"start_time" : 700, "duration" : 50, "vibration" : 35, "interpolate" : 0 },
+																		{"start_time" : 800, "duration" : 25, "vibration" : 40, "interpolate" : 0 },
+																		{"start_time" : 900, "duration" : 50, "vibration" : 45, "interpolate" : 0 },
+																		{"start_time" : 1000, "duration" : 250, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 1500, "duration" : 300, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 2000, "duration" : 400, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 3000, "duration" : 600, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 4000, "duration" : 800, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 5000, "duration" : 200, "vibration" : 50, "interpolate" : 0 },
+																		{"start_time" : 6000, "duration" : 100, "vibration" : 50, "interpolate" : 0 }
+																	]
+									}
+								]
+	}]
+}

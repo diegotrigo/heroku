@@ -1,0 +1,975 @@
+[2014-01-10 10:36:07.921] [INFO] server - Server listening on port 8007
+[2014-01-10 10:36:15.387] [INFO] server - Client connected
+[2014-01-10 10:36:15.388] [INFO] server - Client connected
+[2014-01-10 10:36:15.388] [INFO] server - Reading operand
+[2014-01-10 10:36:15.389] [INFO] server - Unknown operation received: G
+[2014-01-10 10:36:15.389] [INFO] server - Reading operand
+[2014-01-10 10:36:15.389] [INFO] server - Unknown operation received: E
+[2014-01-10 10:36:15.389] [INFO] server - Reading operand
+[2014-01-10 10:36:15.390] [INFO] server - Unknown operation received: T
+[2014-01-10 10:36:15.390] [INFO] server - Reading operand
+[2014-01-10 10:36:15.390] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.390] [INFO] server - Reading operand
+[2014-01-10 10:36:15.390] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.390] [INFO] server - Reading operand
+[2014-01-10 10:36:15.390] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.390] [INFO] server - Reading operand
+[2014-01-10 10:36:15.391] [INFO] server - Unknown operation received: H
+[2014-01-10 10:36:15.391] [INFO] server - Reading operand
+[2014-01-10 10:36:15.392] [INFO] server - Unknown operation received: T
+[2014-01-10 10:36:15.392] [INFO] server - Reading operand
+[2014-01-10 10:36:15.392] [INFO] server - Unknown operation received: T
+[2014-01-10 10:36:15.393] [INFO] server - Reading operand
+[2014-01-10 10:36:15.393] [INFO] server - Unknown operation received: P
+[2014-01-10 10:36:15.393] [INFO] server - Reading operand
+[2014-01-10 10:36:15.393] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.393] [INFO] server - Reading operand
+[2014-01-10 10:36:15.393] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:36:15.393] [INFO] server - Reading operand
+[2014-01-10 10:36:15.393] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.394] [INFO] server - Reading operand
+[2014-01-10 10:36:15.394] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:36:15.394] [INFO] server - Reading operand
+[2014-01-10 10:36:15.394] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.395] [INFO] server - Reading operand
+[2014-01-10 10:36:15.395] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.395] [INFO] server - Reading operand
+[2014-01-10 10:36:15.395] [INFO] server - Unknown operation received: H
+[2014-01-10 10:36:15.395] [INFO] server - Reading operand
+[2014-01-10 10:36:15.396] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.396] [INFO] server - Reading operand
+[2014-01-10 10:36:15.396] [INFO] server - Unknown operation received: s
+[2014-01-10 10:36:15.396] [INFO] server - Reading operand
+[2014-01-10 10:36:15.396] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.396] [INFO] server - Reading operand
+[2014-01-10 10:36:15.397] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.397] [INFO] server - Reading operand
+[2014-01-10 10:36:15.397] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.397] [INFO] server - Reading operand
+[2014-01-10 10:36:15.397] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.397] [INFO] server - Reading operand
+[2014-01-10 10:36:15.397] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.397] [INFO] server - Reading operand
+[2014-01-10 10:36:15.397] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.398] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.398] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.398] [INFO] server - Unknown operation received: h
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.398] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.398] [INFO] server - Unknown operation received: s
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.398] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.398] [INFO] server - Reading operand
+[2014-01-10 10:36:15.401] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.401] [INFO] server - Reading operand
+[2014-01-10 10:36:15.402] [INFO] server - Unknown operation received: 8
+[2014-01-10 10:36:15.402] [INFO] server - Reading operand
+[2014-01-10 10:36:15.402] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.402] [INFO] server - Reading operand
+[2014-01-10 10:36:15.402] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.402] [INFO] server - Reading operand
+[2014-01-10 10:36:15.402] [INFO] server - Unknown operation received: 7
+[2014-01-10 10:36:15.402] [INFO] server - Reading operand
+[2014-01-10 10:36:15.403] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.403] [INFO] server - Reading operand
+[2014-01-10 10:36:15.403] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.403] [INFO] server - Reading operand
+[2014-01-10 10:36:15.403] [INFO] server - Unknown operation received: C
+[2014-01-10 10:36:15.403] [INFO] server - Reading operand
+[2014-01-10 10:36:15.403] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.403] [INFO] server - Reading operand
+[2014-01-10 10:36:15.404] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.404] [INFO] server - Reading operand
+[2014-01-10 10:36:15.404] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.404] [INFO] server - Reading operand
+[2014-01-10 10:36:15.405] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.405] [INFO] server - Reading operand
+[2014-01-10 10:36:15.405] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.405] [INFO] server - Reading operand
+[2014-01-10 10:36:15.405] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.405] [INFO] server - Reading operand
+[2014-01-10 10:36:15.405] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.406] [INFO] server - Reading operand
+[2014-01-10 10:36:15.406] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.406] [INFO] server - Reading operand
+[2014-01-10 10:36:15.407] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.407] [INFO] server - Reading operand
+[2014-01-10 10:36:15.408] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.408] [INFO] server - Reading operand
+[2014-01-10 10:36:15.408] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.408] [INFO] server - Reading operand
+[2014-01-10 10:36:15.408] [INFO] server - Unknown operation received: k
+[2014-01-10 10:36:15.408] [INFO] server - Reading operand
+[2014-01-10 10:36:15.408] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.408] [INFO] server - Reading operand
+[2014-01-10 10:36:15.409] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.409] [INFO] server - Reading operand
+[2014-01-10 10:36:15.409] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.409] [INFO] server - Reading operand
+[2014-01-10 10:36:15.409] [INFO] server - Unknown operation received: -
+[2014-01-10 10:36:15.410] [INFO] server - Reading operand
+[2014-01-10 10:36:15.410] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.410] [INFO] server - Reading operand
+[2014-01-10 10:36:15.410] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.410] [INFO] server - Reading operand
+[2014-01-10 10:36:15.410] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.410] [INFO] server - Reading operand
+[2014-01-10 10:36:15.410] [INFO] server - Unknown operation received: v
+[2014-01-10 10:36:15.410] [INFO] server - Reading operand
+[2014-01-10 10:36:15.411] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.411] [INFO] server - Reading operand
+[2014-01-10 10:36:15.411] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.411] [INFO] server - Reading operand
+[2014-01-10 10:36:15.411] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.411] [INFO] server - Reading operand
+[2014-01-10 10:36:15.411] [INFO] server - Unknown operation received: A
+[2014-01-10 10:36:15.411] [INFO] server - Reading operand
+[2014-01-10 10:36:15.413] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.413] [INFO] server - Reading operand
+[2014-01-10 10:36:15.415] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.415] [INFO] server - Reading operand
+[2014-01-10 10:36:15.415] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.415] [INFO] server - Reading operand
+[2014-01-10 10:36:15.416] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.416] [INFO] server - Reading operand
+[2014-01-10 10:36:15.416] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.416] [INFO] server - Reading operand
+[2014-01-10 10:36:15.416] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.416] [INFO] server - Reading operand
+[2014-01-10 10:36:15.416] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.417] [INFO] server - Reading operand
+[2014-01-10 10:36:15.417] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.417] [INFO] server - Reading operand
+[2014-01-10 10:36:15.417] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.417] [INFO] server - Reading operand
+[2014-01-10 10:36:15.417] [INFO] server - Unknown operation received: x
+[2014-01-10 10:36:15.417] [INFO] server - Reading operand
+[2014-01-10 10:36:15.417] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.417] [INFO] server - Reading operand
+[2014-01-10 10:36:15.418] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.418] [INFO] server - Reading operand
+[2014-01-10 10:36:15.418] [INFO] server - Unknown operation received: h
+[2014-01-10 10:36:15.418] [INFO] server - Reading operand
+[2014-01-10 10:36:15.418] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.418] [INFO] server - Reading operand
+[2014-01-10 10:36:15.418] [INFO] server - Unknown operation received: m
+[2014-01-10 10:36:15.418] [INFO] server - Reading operand
+[2014-01-10 10:36:15.418] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.418] [INFO] server - Reading operand
+[2014-01-10 10:36:15.419] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.419] [INFO] server - Reading operand
+[2014-01-10 10:36:15.419] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.419] [INFO] server - Reading operand
+[2014-01-10 10:36:15.419] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.419] [INFO] server - Reading operand
+[2014-01-10 10:36:15.419] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.419] [INFO] server - Reading operand
+[2014-01-10 10:36:15.419] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.419] [INFO] server - Reading operand
+[2014-01-10 10:36:15.419] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.420] [INFO] server - Reading operand
+[2014-01-10 10:36:15.420] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.421] [INFO] server - Reading operand
+[2014-01-10 10:36:15.421] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.421] [INFO] server - Reading operand
+[2014-01-10 10:36:15.421] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.421] [INFO] server - Reading operand
+[2014-01-10 10:36:15.421] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.422] [INFO] server - Reading operand
+[2014-01-10 10:36:15.422] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.423] [INFO] server - Reading operand
+[2014-01-10 10:36:15.423] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.423] [INFO] server - Reading operand
+[2014-01-10 10:36:15.423] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.423] [INFO] server - Reading operand
+[2014-01-10 10:36:15.423] [INFO] server - Unknown operation received: x
+[2014-01-10 10:36:15.423] [INFO] server - Reading operand
+[2014-01-10 10:36:15.423] [INFO] server - Unknown operation received: h
+[2014-01-10 10:36:15.424] [INFO] server - Reading operand
+[2014-01-10 10:36:15.424] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.424] [INFO] server - Reading operand
+[2014-01-10 10:36:15.424] [INFO] server - Unknown operation received: m
+[2014-01-10 10:36:15.424] [INFO] server - Reading operand
+[2014-01-10 10:36:15.424] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.426] [INFO] server - Reading operand
+[2014-01-10 10:36:15.427] [INFO] server - Unknown operation received: +
+[2014-01-10 10:36:15.427] [INFO] server - Reading operand
+[2014-01-10 10:36:15.427] [INFO] server - Unknown operation received: x
+[2014-01-10 10:36:15.427] [INFO] server - Reading operand
+[2014-01-10 10:36:15.427] [INFO] server - Unknown operation received: m
+[2014-01-10 10:36:15.427] [INFO] server - Reading operand
+[2014-01-10 10:36:15.427] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.428] [INFO] server - Reading operand
+[2014-01-10 10:36:15.428] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.428] [INFO] server - Reading operand
+[2014-01-10 10:36:15.428] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.428] [INFO] server - Reading operand
+[2014-01-10 10:36:15.428] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.428] [INFO] server - Reading operand
+[2014-01-10 10:36:15.428] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.428] [INFO] server - Reading operand
+[2014-01-10 10:36:15.429] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.429] [INFO] server - Reading operand
+[2014-01-10 10:36:15.429] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.429] [INFO] server - Reading operand
+[2014-01-10 10:36:15.429] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.429] [INFO] server - Reading operand
+[2014-01-10 10:36:15.429] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.429] [INFO] server - Reading operand
+[2014-01-10 10:36:15.429] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.429] [INFO] server - Reading operand
+[2014-01-10 10:36:15.430] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.430] [INFO] server - Reading operand
+[2014-01-10 10:36:15.430] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.430] [INFO] server - Reading operand
+[2014-01-10 10:36:15.430] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.430] [INFO] server - Reading operand
+[2014-01-10 10:36:15.430] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.430] [INFO] server - Reading operand
+[2014-01-10 10:36:15.430] [INFO] server - Unknown operation received: x
+[2014-01-10 10:36:15.430] [INFO] server - Reading operand
+[2014-01-10 10:36:15.430] [INFO] server - Unknown operation received: m
+[2014-01-10 10:36:15.431] [INFO] server - Reading operand
+[2014-01-10 10:36:15.431] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.431] [INFO] server - Reading operand
+[2014-01-10 10:36:15.431] [INFO] server - Unknown operation received: ;
+[2014-01-10 10:36:15.431] [INFO] server - Reading operand
+[2014-01-10 10:36:15.431] [INFO] server - Unknown operation received: q
+[2014-01-10 10:36:15.432] [INFO] server - Reading operand
+[2014-01-10 10:36:15.432] [INFO] server - Unknown operation received: =
+[2014-01-10 10:36:15.432] [INFO] server - Reading operand
+[2014-01-10 10:36:15.432] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.432] [INFO] server - Reading operand
+[2014-01-10 10:36:15.432] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.432] [INFO] server - Reading operand
+[2014-01-10 10:36:15.432] [INFO] server - Unknown operation received: 9
+[2014-01-10 10:36:15.432] [INFO] server - Reading operand
+[2014-01-10 10:36:15.433] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.433] [INFO] server - Reading operand
+[2014-01-10 10:36:15.433] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.433] [INFO] server - Reading operand
+[2014-01-10 10:36:15.433] [INFO] server - Unknown operation received: m
+[2014-01-10 10:36:15.433] [INFO] server - Reading operand
+[2014-01-10 10:36:15.433] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.433] [INFO] server - Reading operand
+[2014-01-10 10:36:15.433] [INFO] server - Unknown operation received: g
+[2014-01-10 10:36:15.434] [INFO] server - Reading operand
+[2014-01-10 10:36:15.434] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.434] [INFO] server - Reading operand
+[2014-01-10 10:36:15.434] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.434] [INFO] server - Reading operand
+[2014-01-10 10:36:15.434] [INFO] server - Unknown operation received: w
+[2014-01-10 10:36:15.435] [INFO] server - Reading operand
+[2014-01-10 10:36:15.435] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.435] [INFO] server - Reading operand
+[2014-01-10 10:36:15.435] [INFO] server - Unknown operation received: b
+[2014-01-10 10:36:15.435] [INFO] server - Reading operand
+[2014-01-10 10:36:15.435] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.435] [INFO] server - Reading operand
+[2014-01-10 10:36:15.435] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.435] [INFO] server - Reading operand
+[2014-01-10 10:36:15.436] [INFO] server - Unknown operation received: *
+[2014-01-10 10:36:15.436] [INFO] server - Reading operand
+[2014-01-10 10:36:15.436] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.436] [INFO] server - Reading operand
+[2014-01-10 10:36:15.436] [INFO] server - Unknown operation received: *
+[2014-01-10 10:36:15.436] [INFO] server - Reading operand
+[2014-01-10 10:36:15.436] [INFO] server - Unknown operation received: ;
+[2014-01-10 10:36:15.436] [INFO] server - Reading operand
+[2014-01-10 10:36:15.437] [INFO] server - Unknown operation received: q
+[2014-01-10 10:36:15.437] [INFO] server - Reading operand
+[2014-01-10 10:36:15.437] [INFO] server - Unknown operation received: =
+[2014-01-10 10:36:15.437] [INFO] server - Reading operand
+[2014-01-10 10:36:15.437] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.437] [INFO] server - Reading operand
+[2014-01-10 10:36:15.437] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.437] [INFO] server - Reading operand
+[2014-01-10 10:36:15.439] [INFO] server - Unknown operation received: 8
+[2014-01-10 10:36:15.439] [INFO] server - Reading operand
+[2014-01-10 10:36:15.439] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.439] [INFO] server - Reading operand
+[2014-01-10 10:36:15.439] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.440] [INFO] server - Reading operand
+[2014-01-10 10:36:15.440] [INFO] server - Unknown operation received: U
+[2014-01-10 10:36:15.440] [INFO] server - Reading operand
+[2014-01-10 10:36:15.440] [INFO] server - Unknown operation received: s
+[2014-01-10 10:36:15.440] [INFO] server - Reading operand
+[2014-01-10 10:36:15.440] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.440] [INFO] server - Reading operand
+[2014-01-10 10:36:15.440] [INFO] server - Unknown operation received: r
+[2014-01-10 10:36:15.440] [INFO] server - Reading operand
+[2014-01-10 10:36:15.441] [INFO] server - Unknown operation received: -
+[2014-01-10 10:36:15.441] [INFO] server - Reading operand
+[2014-01-10 10:36:15.441] [INFO] server - Unknown operation received: A
+[2014-01-10 10:36:15.441] [INFO] server - Reading operand
+[2014-01-10 10:36:15.441] [INFO] server - Unknown operation received: g
+[2014-01-10 10:36:15.441] [INFO] server - Reading operand
+[2014-01-10 10:36:15.441] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.441] [INFO] server - Reading operand
+[2014-01-10 10:36:15.441] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.441] [INFO] server - Reading operand
+[2014-01-10 10:36:15.442] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.442] [INFO] server - Reading operand
+[2014-01-10 10:36:15.442] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.442] [INFO] server - Reading operand
+[2014-01-10 10:36:15.442] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.442] [INFO] server - Reading operand
+[2014-01-10 10:36:15.442] [INFO] server - Unknown operation received: M
+[2014-01-10 10:36:15.442] [INFO] server - Reading operand
+[2014-01-10 10:36:15.442] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.443] [INFO] server - Reading operand
+[2014-01-10 10:36:15.443] [INFO] server - Unknown operation received: z
+[2014-01-10 10:36:15.443] [INFO] server - Reading operand
+[2014-01-10 10:36:15.443] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.443] [INFO] server - Reading operand
+[2014-01-10 10:36:15.443] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.443] [INFO] server - Reading operand
+[2014-01-10 10:36:15.443] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.443] [INFO] server - Reading operand
+[2014-01-10 10:36:15.443] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.444] [INFO] server - Reading operand
+[2014-01-10 10:36:15.444] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.444] [INFO] server - Reading operand
+[2014-01-10 10:36:15.444] [INFO] server - Unknown operation received: 5
+[2014-01-10 10:36:15.444] [INFO] server - Reading operand
+[2014-01-10 10:36:15.444] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.444] [INFO] server - Reading operand
+[2014-01-10 10:36:15.444] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.444] [INFO] server - Reading operand
+[2014-01-10 10:36:15.444] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.445] [INFO] server - Reading operand
+[2014-01-10 10:36:15.445] [INFO] server - Unknown operation received: (
+[2014-01-10 10:36:15.445] [INFO] server - Reading operand
+[2014-01-10 10:36:15.445] [INFO] server - Unknown operation received: M
+[2014-01-10 10:36:15.445] [INFO] server - Reading operand
+[2014-01-10 10:36:15.445] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.445] [INFO] server - Reading operand
+[2014-01-10 10:36:15.446] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.446] [INFO] server - Reading operand
+[2014-01-10 10:36:15.446] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.447] [INFO] server - Reading operand
+[2014-01-10 10:36:15.447] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.447] [INFO] server - Reading operand
+[2014-01-10 10:36:15.447] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.447] [INFO] server - Reading operand
+[2014-01-10 10:36:15.448] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.448] [INFO] server - Reading operand
+[2014-01-10 10:36:15.448] [INFO] server - Unknown operation received: s
+[2014-01-10 10:36:15.448] [INFO] server - Reading operand
+[2014-01-10 10:36:15.448] [INFO] server - Unknown operation received: h
+[2014-01-10 10:36:15.448] [INFO] server - Reading operand
+[2014-01-10 10:36:15.448] [INFO] server - Unknown operation received: ;
+[2014-01-10 10:36:15.448] [INFO] server - Reading operand
+[2014-01-10 10:36:15.449] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.449] [INFO] server - Reading operand
+[2014-01-10 10:36:15.449] [INFO] server - Unknown operation received: I
+[2014-01-10 10:36:15.449] [INFO] server - Reading operand
+[2014-01-10 10:36:15.449] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.449] [INFO] server - Reading operand
+[2014-01-10 10:36:15.449] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.449] [INFO] server - Reading operand
+[2014-01-10 10:36:15.450] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.450] [INFO] server - Reading operand
+[2014-01-10 10:36:15.450] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.450] [INFO] server - Reading operand
+[2014-01-10 10:36:15.450] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.450] [INFO] server - Reading operand
+[2014-01-10 10:36:15.450] [INFO] server - Unknown operation received: M
+[2014-01-10 10:36:15.450] [INFO] server - Reading operand
+[2014-01-10 10:36:15.450] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.450] [INFO] server - Reading operand
+[2014-01-10 10:36:15.451] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.451] [INFO] server - Reading operand
+[2014-01-10 10:36:15.451] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.451] [INFO] server - Reading operand
+[2014-01-10 10:36:15.451] [INFO] server - Unknown operation received: O
+[2014-01-10 10:36:15.451] [INFO] server - Reading operand
+[2014-01-10 10:36:15.451] [INFO] server - Unknown operation received: S
+[2014-01-10 10:36:15.451] [INFO] server - Reading operand
+[2014-01-10 10:36:15.453] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.453] [INFO] server - Reading operand
+[2014-01-10 10:36:15.455] [INFO] server - Unknown operation received: X
+[2014-01-10 10:36:15.455] [INFO] server - Reading operand
+[2014-01-10 10:36:15.455] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.455] [INFO] server - Reading operand
+[2014-01-10 10:36:15.455] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:36:15.455] [INFO] server - Reading operand
+[2014-01-10 10:36:15.456] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.456] [INFO] server - Reading operand
+[2014-01-10 10:36:15.456] [INFO] server - Unknown operation received: _
+[2014-01-10 10:36:15.456] [INFO] server - Reading operand
+[2014-01-10 10:36:15.456] [INFO] server - Unknown operation received: 8
+[2014-01-10 10:36:15.456] [INFO] server - Reading operand
+[2014-01-10 10:36:15.456] [INFO] server - Unknown operation received: _
+[2014-01-10 10:36:15.456] [INFO] server - Reading operand
+[2014-01-10 10:36:15.456] [INFO] server - Unknown operation received: 5
+[2014-01-10 10:36:15.457] [INFO] server - Reading operand
+[2014-01-10 10:36:15.457] [INFO] server - Unknown operation received: )
+[2014-01-10 10:36:15.457] [INFO] server - Reading operand
+[2014-01-10 10:36:15.457] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.457] [INFO] server - Reading operand
+[2014-01-10 10:36:15.457] [INFO] server - Unknown operation received: A
+[2014-01-10 10:36:15.457] [INFO] server - Reading operand
+[2014-01-10 10:36:15.457] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.457] [INFO] server - Reading operand
+[2014-01-10 10:36:15.458] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.458] [INFO] server - Reading operand
+[2014-01-10 10:36:15.458] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.458] [INFO] server - Reading operand
+[2014-01-10 10:36:15.458] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.458] [INFO] server - Reading operand
+[2014-01-10 10:36:15.458] [INFO] server - Unknown operation received: W
+[2014-01-10 10:36:15.458] [INFO] server - Reading operand
+[2014-01-10 10:36:15.458] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.458] [INFO] server - Reading operand
+[2014-01-10 10:36:15.459] [INFO] server - Unknown operation received: b
+[2014-01-10 10:36:15.459] [INFO] server - Reading operand
+[2014-01-10 10:36:15.459] [INFO] server - Unknown operation received: K
+[2014-01-10 10:36:15.459] [INFO] server - Reading operand
+[2014-01-10 10:36:15.459] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.459] [INFO] server - Reading operand
+[2014-01-10 10:36:15.459] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.459] [INFO] server - Reading operand
+[2014-01-10 10:36:15.459] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.460] [INFO] server - Reading operand
+[2014-01-10 10:36:15.460] [INFO] server - Unknown operation received: 5
+[2014-01-10 10:36:15.460] [INFO] server - Reading operand
+[2014-01-10 10:36:15.460] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:36:15.460] [INFO] server - Reading operand
+[2014-01-10 10:36:15.460] [INFO] server - Unknown operation received: 7
+[2014-01-10 10:36:15.460] [INFO] server - Reading operand
+[2014-01-10 10:36:15.461] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.461] [INFO] server - Reading operand
+[2014-01-10 10:36:15.461] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:36:15.461] [INFO] server - Reading operand
+[2014-01-10 10:36:15.461] [INFO] server - Unknown operation received: 6
+[2014-01-10 10:36:15.461] [INFO] server - Reading operand
+[2014-01-10 10:36:15.461] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.461] [INFO] server - Reading operand
+[2014-01-10 10:36:15.461] [INFO] server - Unknown operation received: (
+[2014-01-10 10:36:15.462] [INFO] server - Reading operand
+[2014-01-10 10:36:15.462] [INFO] server - Unknown operation received: K
+[2014-01-10 10:36:15.462] [INFO] server - Reading operand
+[2014-01-10 10:36:15.462] [INFO] server - Unknown operation received: H
+[2014-01-10 10:36:15.462] [INFO] server - Reading operand
+[2014-01-10 10:36:15.462] [INFO] server - Unknown operation received: T
+[2014-01-10 10:36:15.462] [INFO] server - Reading operand
+[2014-01-10 10:36:15.462] [INFO] server - Unknown operation received: M
+[2014-01-10 10:36:15.462] [INFO] server - Reading operand
+[2014-01-10 10:36:15.462] [INFO] server - Login attempt
+[2014-01-10 10:36:15.463] [INFO] server - Received login
+[2014-01-10 10:36:15.463] [INFO] server - Client logged in
+[2014-01-10 10:36:15.464] [INFO] server - songs.json file loaded successfully
+[2014-01-10 10:36:15.468] [INFO] server - , like
+[2014-01-10 10:36:15.468] [INFO] server - Reading operand
+[2014-01-10 10:36:15.468] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.468] [INFO] server - Reading operand
+[2014-01-10 10:36:15.469] [INFO] server - Unknown operation received: G
+[2014-01-10 10:36:15.469] [INFO] server - Reading operand
+[2014-01-10 10:36:15.469] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.469] [INFO] server - Reading operand
+[2014-01-10 10:36:15.469] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.469] [INFO] server - Reading operand
+[2014-01-10 10:36:15.470] [INFO] server - Unknown operation received: k
+[2014-01-10 10:36:15.470] [INFO] server - Reading operand
+[2014-01-10 10:36:15.470] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.470] [INFO] server - Reading operand
+[2014-01-10 10:36:15.470] [INFO] server - Unknown operation received: )
+[2014-01-10 10:36:15.470] [INFO] server - Reading operand
+[2014-01-10 10:36:15.470] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.470] [INFO] server - Reading operand
+[2014-01-10 10:36:15.470] [INFO] server - Unknown operation received: C
+[2014-01-10 10:36:15.471] [INFO] server - Reading operand
+[2014-01-10 10:36:15.471] [INFO] server - Unknown operation received: h
+[2014-01-10 10:36:15.471] [INFO] server - Reading operand
+[2014-01-10 10:36:15.471] [INFO] server - Unknown operation received: r
+[2014-01-10 10:36:15.471] [INFO] server - Reading operand
+[2014-01-10 10:36:15.471] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.471] [INFO] server - Reading operand
+[2014-01-10 10:36:15.471] [INFO] server - Unknown operation received: m
+[2014-01-10 10:36:15.472] [INFO] server - Reading operand
+[2014-01-10 10:36:15.472] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.472] [INFO] server - Reading operand
+[2014-01-10 10:36:15.472] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.472] [INFO] server - Reading operand
+[2014-01-10 10:36:15.472] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:36:15.472] [INFO] server - Reading operand
+[2014-01-10 10:36:15.472] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:36:15.472] [INFO] server - Reading operand
+[2014-01-10 10:36:15.472] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.473] [INFO] server - Reading operand
+[2014-01-10 10:36:15.473] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.473] [INFO] server - Reading operand
+[2014-01-10 10:36:15.473] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.473] [INFO] server - Reading operand
+[2014-01-10 10:36:15.473] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:36:15.473] [INFO] server - Reading operand
+[2014-01-10 10:36:15.473] [INFO] server - Unknown operation received: 6
+[2014-01-10 10:36:15.473] [INFO] server - Reading operand
+[2014-01-10 10:36:15.473] [INFO] server - Unknown operation received: 5
+[2014-01-10 10:36:15.474] [INFO] server - Reading operand
+[2014-01-10 10:36:15.474] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.474] [INFO] server - Reading operand
+[2014-01-10 10:36:15.474] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.474] [INFO] server - Reading operand
+[2014-01-10 10:36:15.474] [INFO] server - Unknown operation received: 6
+[2014-01-10 10:36:15.474] [INFO] server - Reading operand
+[2014-01-10 10:36:15.474] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:36:15.474] [INFO] server - Reading operand
+[2014-01-10 10:36:15.474] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.474] [INFO] server - Reading operand
+[2014-01-10 10:36:15.475] [INFO] server - Unknown operation received: S
+[2014-01-10 10:36:15.475] [INFO] server - Reading operand
+[2014-01-10 10:36:15.476] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.476] [INFO] server - Reading operand
+[2014-01-10 10:36:15.477] [INFO] server - Unknown operation received: f
+[2014-01-10 10:36:15.477] [INFO] server - Reading operand
+[2014-01-10 10:36:15.477] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.477] [INFO] server - Reading operand
+[2014-01-10 10:36:15.477] [INFO] server - Unknown operation received: r
+[2014-01-10 10:36:15.477] [INFO] server - Reading operand
+[2014-01-10 10:36:15.477] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.477] [INFO] server - Reading operand
+[2014-01-10 10:36:15.477] [INFO] server - Unknown operation received: /
+[2014-01-10 10:36:15.478] [INFO] server - Reading operand
+[2014-01-10 10:36:15.484] [INFO] server - Unknown operation received: 5
+[2014-01-10 10:36:15.484] [INFO] server - Reading operand
+[2014-01-10 10:36:15.484] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:36:15.484] [INFO] server - Reading operand
+[2014-01-10 10:36:15.484] [INFO] server - Unknown operation received: 7
+[2014-01-10 10:36:15.484] [INFO] server - Reading operand
+[2014-01-10 10:36:15.484] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.484] [INFO] server - Reading operand
+[2014-01-10 10:36:15.485] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:36:15.485] [INFO] server - Reading operand
+[2014-01-10 10:36:15.485] [INFO] server - Unknown operation received: 6
+[2014-01-10 10:36:15.485] [INFO] server - Reading operand
+[2014-01-10 10:36:15.485] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.485] [INFO] server - Reading operand
+[2014-01-10 10:36:15.485] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.485] [INFO] server - Reading operand
+[2014-01-10 10:36:15.485] [INFO] server - Unknown operation received: A
+[2014-01-10 10:36:15.485] [INFO] server - Reading operand
+[2014-01-10 10:36:15.485] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.486] [INFO] server - Reading operand
+[2014-01-10 10:36:15.486] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.486] [INFO] server - Reading operand
+[2014-01-10 10:36:15.486] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.486] [INFO] server - Reading operand
+[2014-01-10 10:36:15.486] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.486] [INFO] server - Reading operand
+[2014-01-10 10:36:15.486] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.486] [INFO] server - Reading operand
+[2014-01-10 10:36:15.486] [INFO] server - Unknown operation received: -
+[2014-01-10 10:36:15.486] [INFO] server - Reading operand
+[2014-01-10 10:36:15.486] [INFO] server - Unknown operation received: E
+[2014-01-10 10:36:15.487] [INFO] server - Reading operand
+[2014-01-10 10:36:15.487] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.487] [INFO] server - Reading operand
+[2014-01-10 10:36:15.487] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.487] [INFO] server - Reading operand
+[2014-01-10 10:36:15.487] [INFO] server - Unknown operation received: o
+[2014-01-10 10:36:15.487] [INFO] server - Reading operand
+[2014-01-10 10:36:15.487] [INFO] server - Unknown operation received: d
+[2014-01-10 10:36:15.487] [INFO] server - Reading operand
+[2014-01-10 10:36:15.488] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.488] [INFO] server - Reading operand
+[2014-01-10 10:36:15.488] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.488] [INFO] server - Reading operand
+[2014-01-10 10:36:15.488] [INFO] server - Unknown operation received: g
+[2014-01-10 10:36:15.488] [INFO] server - Reading operand
+[2014-01-10 10:36:15.488] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.488] [INFO] server - Reading operand
+[2014-01-10 10:36:15.488] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.488] [INFO] server - Reading operand
+[2014-01-10 10:36:15.489] [INFO] server - Unknown operation received: g
+[2014-01-10 10:36:15.489] [INFO] server - Reading operand
+[2014-01-10 10:36:15.489] [INFO] server - Unknown operation received: z
+[2014-01-10 10:36:15.489] [INFO] server - Reading operand
+[2014-01-10 10:36:15.489] [INFO] server - Unknown operation received: i
+[2014-01-10 10:36:15.489] [INFO] server - Reading operand
+[2014-01-10 10:36:15.489] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.490] [INFO] server - Reading operand
+[2014-01-10 10:36:15.490] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.490] [INFO] server - Reading operand
+[2014-01-10 10:36:15.490] [INFO] server - Unknown operation received: d
+[2014-01-10 10:36:15.490] [INFO] server - Reading operand
+[2014-01-10 10:36:15.490] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.490] [INFO] server - Reading operand
+[2014-01-10 10:36:15.490] [INFO] server - Unknown operation received: f
+[2014-01-10 10:36:15.490] [INFO] server - Reading operand
+[2014-01-10 10:36:15.490] [INFO] server - Unknown operation received: l
+[2014-01-10 10:36:15.490] [INFO] server - Reading operand
+[2014-01-10 10:36:15.491] [INFO] server - Unknown operation received: a
+[2014-01-10 10:36:15.491] [INFO] server - Reading operand
+[2014-01-10 10:36:15.491] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.491] [INFO] server - Reading operand
+[2014-01-10 10:36:15.491] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.491] [INFO] server - Reading operand
+[2014-01-10 10:36:15.491] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.492] [INFO] server - Reading operand
+[2014-01-10 10:36:15.492] [INFO] server - Unknown operation received: s
+[2014-01-10 10:36:15.492] [INFO] server - Reading operand
+[2014-01-10 10:36:15.492] [INFO] server - Unknown operation received: d
+[2014-01-10 10:36:15.492] [INFO] server - Reading operand
+[2014-01-10 10:36:15.492] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.492] [INFO] server - Reading operand
+[2014-01-10 10:36:15.492] [INFO] server - Unknown operation received: h
+[2014-01-10 10:36:15.492] [INFO] server - Reading operand
+[2014-01-10 10:36:15.492] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.492] [INFO] server - Reading operand
+[2014-01-10 10:36:15.493] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.493] [INFO] server - Reading operand
+[2014-01-10 10:36:15.493] [INFO] server - Unknown operation received: A
+[2014-01-10 10:36:15.493] [INFO] server - Reading operand
+[2014-01-10 10:36:15.493] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.493] [INFO] server - Reading operand
+[2014-01-10 10:36:15.493] [INFO] server - Unknown operation received: c
+[2014-01-10 10:36:15.493] [INFO] server - Reading operand
+[2014-01-10 10:36:15.493] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.494] [INFO] server - Reading operand
+[2014-01-10 10:36:15.494] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.494] [INFO] server - Reading operand
+[2014-01-10 10:36:15.494] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.494] [INFO] server - Reading operand
+[2014-01-10 10:36:15.494] [INFO] server - Unknown operation received: -
+[2014-01-10 10:36:15.494] [INFO] server - Reading operand
+[2014-01-10 10:36:15.494] [INFO] server - Login attempt
+[2014-01-10 10:36:15.494] [INFO] server - Received login
+[2014-01-10 10:36:15.495] [INFO] server - Client logged in
+[2014-01-10 10:36:15.495] [INFO] server - songs.json file loaded successfully
+[2014-01-10 10:36:15.498] [INFO] server - anguag
+[2014-01-10 10:36:15.499] [INFO] server - Reading operand
+[2014-01-10 10:36:15.499] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.499] [INFO] server - Reading operand
+[2014-01-10 10:36:15.499] [INFO] server - Unknown operation received: :
+[2014-01-10 10:36:15.499] [INFO] server - Reading operand
+[2014-01-10 10:36:15.499] [INFO] server - Unknown operation received:  
+[2014-01-10 10:36:15.499] [INFO] server - Reading operand
+[2014-01-10 10:36:15.499] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.500] [INFO] server - Reading operand
+[2014-01-10 10:36:15.500] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.500] [INFO] server - Reading operand
+[2014-01-10 10:36:15.500] [INFO] server - Unknown operation received: -
+[2014-01-10 10:36:15.500] [INFO] server - Reading operand
+[2014-01-10 10:36:15.500] [INFO] server - Unknown operation received: U
+[2014-01-10 10:36:15.500] [INFO] server - Reading operand
+[2014-01-10 10:36:15.500] [INFO] server - Unknown operation received: S
+[2014-01-10 10:36:15.500] [INFO] server - Reading operand
+[2014-01-10 10:36:15.501] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.501] [INFO] server - Reading operand
+[2014-01-10 10:36:15.501] [INFO] server - Unknown operation received: e
+[2014-01-10 10:36:15.501] [INFO] server - Reading operand
+[2014-01-10 10:36:15.501] [INFO] server - Unknown operation received: n
+[2014-01-10 10:36:15.501] [INFO] server - Reading operand
+[2014-01-10 10:36:15.501] [INFO] server - Unknown operation received: ;
+[2014-01-10 10:36:15.501] [INFO] server - Reading operand
+[2014-01-10 10:36:15.501] [INFO] server - Unknown operation received: q
+[2014-01-10 10:36:15.502] [INFO] server - Reading operand
+[2014-01-10 10:36:15.502] [INFO] server - Unknown operation received: =
+[2014-01-10 10:36:15.502] [INFO] server - Reading operand
+[2014-01-10 10:36:15.502] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.502] [INFO] server - Reading operand
+[2014-01-10 10:36:15.502] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.502] [INFO] server - Reading operand
+[2014-01-10 10:36:15.502] [INFO] server - Unknown operation received: 8
+[2014-01-10 10:36:15.502] [INFO] server - Reading operand
+[2014-01-10 10:36:15.503] [INFO] server - Unknown operation received: ,
+[2014-01-10 10:36:15.503] [INFO] server - Reading operand
+[2014-01-10 10:36:15.503] [INFO] server - Unknown operation received: p
+[2014-01-10 10:36:15.503] [INFO] server - Reading operand
+[2014-01-10 10:36:15.503] [INFO] server - Unknown operation received: t
+[2014-01-10 10:36:15.503] [INFO] server - Reading operand
+[2014-01-10 10:36:15.503] [INFO] server - Unknown operation received: -
+[2014-01-10 10:36:15.503] [INFO] server - Reading operand
+[2014-01-10 10:36:15.503] [INFO] server - Unknown operation received: B
+[2014-01-10 10:36:15.503] [INFO] server - Reading operand
+[2014-01-10 10:36:15.504] [INFO] server - Unknown operation received: R
+[2014-01-10 10:36:15.504] [INFO] server - Reading operand
+[2014-01-10 10:36:15.504] [INFO] server - Unknown operation received: ;
+[2014-01-10 10:36:15.504] [INFO] server - Reading operand
+[2014-01-10 10:36:15.504] [INFO] server - Unknown operation received: q
+[2014-01-10 10:36:15.504] [INFO] server - Reading operand
+[2014-01-10 10:36:15.504] [INFO] server - Unknown operation received: =
+[2014-01-10 10:36:15.504] [INFO] server - Reading operand
+[2014-01-10 10:36:15.504] [INFO] server - Unknown operation received: 0
+[2014-01-10 10:36:15.505] [INFO] server - Reading operand
+[2014-01-10 10:36:15.505] [INFO] server - Unknown operation received: .
+[2014-01-10 10:36:15.505] [INFO] server - Reading operand
+[2014-01-10 10:36:15.505] [INFO] server - Unknown operation received: 6
+[2014-01-10 10:36:15.505] [INFO] server - Reading operand
+[2014-01-10 10:36:15.505] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.505] [INFO] server - Reading operand
+[2014-01-10 10:36:15.505] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.506] [INFO] server - Reading operand
+[2014-01-10 10:36:15.506] [INFO] server - Unknown operation received: 
+[2014-01-10 10:36:15.506] [INFO] server - Reading operand
+[2014-01-10 10:36:15.506] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:36:15.506] [INFO] server - Reading operand
+[2014-01-10 10:36:15.506] [INFO] server - No operand to read yet
+[2014-01-10 10:36:28.481] [INFO] server - Reading operand
+[2014-01-10 10:36:28.481] [INFO] server - No operand to read yet
+[2014-01-10 10:36:28.482] [INFO] server - Client has disconnected
+[2014-01-10 10:36:54.102] [INFO] server - Server listening on port 8007
+[2014-01-10 10:36:57.447] [INFO] server - Client connected
+[2014-01-10 10:38:07.484] [INFO] server - Reading operand
+[2014-01-10 10:38:07.484] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:07.485] [INFO] server - Reading operand
+[2014-01-10 10:38:07.485] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:07.485] [INFO] server - Reading operand
+[2014-01-10 10:38:07.485] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:07.485] [INFO] server - Reading operand
+[2014-01-10 10:38:07.485] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:07.485] [INFO] server - Reading operand
+[2014-01-10 10:38:07.486] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:07.486] [INFO] server - Reading operand
+[2014-01-10 10:38:07.486] [INFO] server - No operand to read yet
+[2014-01-10 10:38:10.770] [INFO] server - Reading operand
+[2014-01-10 10:38:10.770] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:10.770] [INFO] server - Reading operand
+[2014-01-10 10:38:10.771] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:10.772] [INFO] server - Reading operand
+[2014-01-10 10:38:10.772] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:10.772] [INFO] server - Reading operand
+[2014-01-10 10:38:10.772] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:10.772] [INFO] server - Reading operand
+[2014-01-10 10:38:10.773] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:10.773] [INFO] server - Reading operand
+[2014-01-10 10:38:10.773] [INFO] server - No operand to read yet
+[2014-01-10 10:38:11.089] [INFO] server - Reading operand
+[2014-01-10 10:38:11.090] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:11.090] [INFO] server - Reading operand
+[2014-01-10 10:38:11.090] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:11.090] [INFO] server - Reading operand
+[2014-01-10 10:38:11.091] [INFO] server - No operand to read yet
+[2014-01-10 10:38:11.634] [INFO] server - Reading operand
+[2014-01-10 10:38:11.634] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:11.634] [INFO] server - Reading operand
+[2014-01-10 10:38:11.635] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:11.635] [INFO] server - Reading operand
+[2014-01-10 10:38:11.635] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:11.635] [INFO] server - Reading operand
+[2014-01-10 10:38:11.635] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:11.636] [INFO] server - Reading operand
+[2014-01-10 10:38:11.636] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:11.637] [INFO] server - Reading operand
+[2014-01-10 10:38:11.637] [INFO] server - No operand to read yet
+[2014-01-10 10:38:12.298] [INFO] server - Reading operand
+[2014-01-10 10:38:12.298] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:12.298] [INFO] server - Reading operand
+[2014-01-10 10:38:12.298] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:12.298] [INFO] server - Reading operand
+[2014-01-10 10:38:12.298] [INFO] server - No operand to read yet
+[2014-01-10 10:38:13.593] [INFO] server - Reading operand
+[2014-01-10 10:38:13.594] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:38:13.594] [INFO] server - Reading operand
+[2014-01-10 10:38:13.594] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:13.594] [INFO] server - Reading operand
+[2014-01-10 10:38:13.594] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:13.594] [INFO] server - Reading operand
+[2014-01-10 10:38:13.594] [INFO] server - No operand to read yet
+[2014-01-10 10:38:15.250] [INFO] server - Reading operand
+[2014-01-10 10:38:15.250] [INFO] server - Unknown operation received: 2
+[2014-01-10 10:38:15.250] [INFO] server - Reading operand
+[2014-01-10 10:38:15.250] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:15.250] [INFO] server - Reading operand
+[2014-01-10 10:38:15.250] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:15.250] [INFO] server - Reading operand
+[2014-01-10 10:38:15.250] [INFO] server - No operand to read yet
+[2014-01-10 10:38:15.969] [INFO] server - Reading operand
+[2014-01-10 10:38:15.970] [INFO] server - Unknown operation received: 3
+[2014-01-10 10:38:15.970] [INFO] server - Reading operand
+[2014-01-10 10:38:15.970] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:15.970] [INFO] server - Reading operand
+[2014-01-10 10:38:15.970] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:15.970] [INFO] server - Reading operand
+[2014-01-10 10:38:15.971] [INFO] server - No operand to read yet
+[2014-01-10 10:38:18.626] [INFO] server - Reading operand
+[2014-01-10 10:38:18.626] [INFO] server - Unknown operation received: s
+[2014-01-10 10:38:18.626] [INFO] server - Reading operand
+[2014-01-10 10:38:18.626] [INFO] server - Unknown operation received: o
+[2014-01-10 10:38:18.626] [INFO] server - Reading operand
+[2014-01-10 10:38:18.626] [INFO] server - Unknown operation received: n
+[2014-01-10 10:38:18.627] [INFO] server - Reading operand
+[2014-01-10 10:38:18.627] [INFO] server - Unknown operation received: g
+[2014-01-10 10:38:18.627] [INFO] server - Reading operand
+[2014-01-10 10:38:18.627] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:18.627] [INFO] server - Reading operand
+[2014-01-10 10:38:18.627] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:18.627] [INFO] server - Reading operand
+[2014-01-10 10:38:18.627] [INFO] server - No operand to read yet
+[2014-01-10 10:38:21.378] [INFO] server - Reading operand
+[2014-01-10 10:38:21.378] [INFO] server - Unknown operation received: s
+[2014-01-10 10:38:21.378] [INFO] server - Reading operand
+[2014-01-10 10:38:21.378] [INFO] server - Unknown operation received: o
+[2014-01-10 10:38:21.378] [INFO] server - Reading operand
+[2014-01-10 10:38:21.378] [INFO] server - Unknown operation received: n
+[2014-01-10 10:38:21.379] [INFO] server - Reading operand
+[2014-01-10 10:38:21.379] [INFO] server - Unknown operation received: g
+[2014-01-10 10:38:21.379] [INFO] server - Reading operand
+[2014-01-10 10:38:21.379] [INFO] server - Unknown operation received: 1
+[2014-01-10 10:38:21.380] [INFO] server - Reading operand
+[2014-01-10 10:38:21.380] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:21.380] [INFO] server - Reading operand
+[2014-01-10 10:38:21.381] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:21.381] [INFO] server - Reading operand
+[2014-01-10 10:38:21.381] [INFO] server - No operand to read yet
+[2014-01-10 10:38:24.033] [INFO] server - Reading operand
+[2014-01-10 10:38:24.034] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:24.034] [INFO] server - Reading operand
+[2014-01-10 10:38:24.034] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:24.034] [INFO] server - Reading operand
+[2014-01-10 10:38:24.034] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:24.034] [INFO] server - Reading operand
+[2014-01-10 10:38:24.034] [INFO] server - Unknown operation received: �
+[2014-01-10 10:38:24.034] [INFO] server - Reading operand
+[2014-01-10 10:38:24.034] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:24.034] [INFO] server - Reading operand
+[2014-01-10 10:38:24.034] [INFO] server - No operand to read yet
+[2014-01-10 10:38:24.801] [INFO] server - Reading operand
+[2014-01-10 10:38:24.802] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:24.802] [INFO] server - Reading operand
+[2014-01-10 10:38:24.802] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:24.802] [INFO] server - Reading operand
+[2014-01-10 10:38:24.802] [INFO] server - No operand to read yet
+[2014-01-10 10:38:27.682] [INFO] server - Reading operand
+[2014-01-10 10:38:27.682] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:27.683] [INFO] server - Reading operand
+[2014-01-10 10:38:27.683] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:27.683] [INFO] server - Reading operand
+[2014-01-10 10:38:27.683] [INFO] server - No operand to read yet
+[2014-01-10 10:38:27.841] [INFO] server - Reading operand
+[2014-01-10 10:38:27.842] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:27.842] [INFO] server - Reading operand
+[2014-01-10 10:38:27.842] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:27.844] [INFO] server - Reading operand
+[2014-01-10 10:38:27.844] [INFO] server - No operand to read yet
+[2014-01-10 10:38:28.001] [INFO] server - Reading operand
+[2014-01-10 10:38:28.002] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:28.002] [INFO] server - Reading operand
+[2014-01-10 10:38:28.002] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:28.002] [INFO] server - Reading operand
+[2014-01-10 10:38:28.002] [INFO] server - No operand to read yet
+[2014-01-10 10:38:28.146] [INFO] server - Reading operand
+[2014-01-10 10:38:28.146] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:28.146] [INFO] server - Reading operand
+[2014-01-10 10:38:28.146] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:28.146] [INFO] server - Reading operand
+[2014-01-10 10:38:28.146] [INFO] server - No operand to read yet
+[2014-01-10 10:38:28.290] [INFO] server - Reading operand
+[2014-01-10 10:38:28.290] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:28.290] [INFO] server - Reading operand
+[2014-01-10 10:38:28.290] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:28.290] [INFO] server - Reading operand
+[2014-01-10 10:38:28.290] [INFO] server - No operand to read yet
+[2014-01-10 10:38:28.450] [INFO] server - Reading operand
+[2014-01-10 10:38:28.450] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:28.450] [INFO] server - Reading operand
+[2014-01-10 10:38:28.450] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:28.450] [INFO] server - Reading operand
+[2014-01-10 10:38:28.450] [INFO] server - No operand to read yet
+[2014-01-10 10:38:29.009] [INFO] server - Reading operand
+[2014-01-10 10:38:29.011] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:29.011] [INFO] server - Reading operand
+[2014-01-10 10:38:29.011] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:29.011] [INFO] server - Reading operand
+[2014-01-10 10:38:29.011] [INFO] server - No operand to read yet
+[2014-01-10 10:38:29.545] [INFO] server - Reading operand
+[2014-01-10 10:38:29.546] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:29.546] [INFO] server - Reading operand
+[2014-01-10 10:38:29.546] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:29.546] [INFO] server - Reading operand
+[2014-01-10 10:38:29.546] [INFO] server - No operand to read yet
+[2014-01-10 10:38:30.441] [INFO] server - Reading operand
+[2014-01-10 10:38:30.442] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:30.442] [INFO] server - Reading operand
+[2014-01-10 10:38:30.442] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:30.442] [INFO] server - Reading operand
+[2014-01-10 10:38:30.442] [INFO] server - No operand to read yet
+[2014-01-10 10:38:31.049] [INFO] server - Reading operand
+[2014-01-10 10:38:31.050] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:31.050] [INFO] server - Reading operand
+[2014-01-10 10:38:31.050] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:31.050] [INFO] server - Reading operand
+[2014-01-10 10:38:31.050] [INFO] server - No operand to read yet
+[2014-01-10 10:38:31.506] [INFO] server - Reading operand
+[2014-01-10 10:38:31.507] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:31.507] [INFO] server - Reading operand
+[2014-01-10 10:38:31.507] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:31.507] [INFO] server - Reading operand
+[2014-01-10 10:38:31.507] [INFO] server - No operand to read yet
+[2014-01-10 10:38:31.698] [INFO] server - Reading operand
+[2014-01-10 10:38:31.698] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:31.698] [INFO] server - Reading operand
+[2014-01-10 10:38:31.698] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:31.698] [INFO] server - Reading operand
+[2014-01-10 10:38:31.698] [INFO] server - No operand to read yet
+[2014-01-10 10:38:31.874] [INFO] server - Reading operand
+[2014-01-10 10:38:31.874] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:31.874] [INFO] server - Reading operand
+[2014-01-10 10:38:31.876] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:31.876] [INFO] server - Reading operand
+[2014-01-10 10:38:31.876] [INFO] server - No operand to read yet
+[2014-01-10 10:38:32.066] [INFO] server - Reading operand
+[2014-01-10 10:38:32.066] [INFO] server - Unknown operation received: 
+[2014-01-10 10:38:32.066] [INFO] server - Reading operand
+[2014-01-10 10:38:32.066] [INFO] server - Unknown operation received: 
+
+[2014-01-10 10:38:32.066] [INFO] server - Reading operand
+[2014-01-10 10:38:32.066] [INFO] server - No operand to read yet
+[2014-01-10 10:39:07.506] [INFO] server - /
+[2014-01-10 10:39:08.958] [INFO] server - /favicon.ico
+[2014-01-10 10:39:11.187] [INFO] server - /play/0
+[2014-01-10 10:39:11.187] [INFO] server - Playing song: 0
+[2014-01-10 10:39:11.187] [INFO] server - Played song to 0 clients
+[2014-01-10 10:39:12.509] [INFO] server - /play/1
+[2014-01-10 10:39:12.509] [INFO] server - Playing song: 1
+[2014-01-10 10:39:12.510] [INFO] server - Played song to 0 clients
+[2014-01-10 10:39:14.992] [INFO] server - /play/2
+[2014-01-10 10:39:14.992] [INFO] server - Playing song: 2
+[2014-01-10 10:39:14.992] [INFO] server - Played song to 0 clients
+[2014-01-10 10:39:18.459] [INFO] server - /play/3
+[2014-01-10 10:39:18.459] [INFO] server - Playing song: 3
+[2014-01-10 10:39:18.460] [INFO] server - Played song to 0 clients
+[2014-01-10 10:39:19.112] [INFO] server - /play/4
+[2014-01-10 10:39:19.112] [INFO] server - Playing song: 4
+[2014-01-10 10:39:19.112] [INFO] server - Played song to 0 clients
+[2014-01-10 10:40:18.727] [INFO] server - /play/4
+[2014-01-10 10:40:18.728] [INFO] server - Playing song: 4
+[2014-01-10 10:40:18.728] [INFO] server - Played song to 0 clients
+[2014-01-10 10:41:14.370] [INFO] server - /play/0
+[2014-01-10 10:41:14.371] [INFO] server - Playing song: 0
+[2014-01-10 10:41:14.371] [INFO] server - Played song to 0 clients

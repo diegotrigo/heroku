@@ -1,0 +1,26 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "Foxtel2",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegotrigo/node.git"
+  },
+  "keywords": [
+    "fx"
+  ],
+  "author": "Diego",
+  "license": "(BSD-2-Clause) MIT",
+  "bugs": {
+    "url": "https://github.com/diegotrigo/node/issues"
+  },
+  "homepage": "https://github.com/diegotrigo/node",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}

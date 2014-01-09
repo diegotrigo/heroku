@@ -1,0 +1,5 @@
+#!/bin/sh
+# Install this script as a startup script and change the path to be accurate
+cd /home/ubuntu/deploy/weex-hurtshirt-nodejs/
+sudo forever -e forever.log server.js&
+sudo forever logger.js&
